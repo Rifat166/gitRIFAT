@@ -1,0 +1,3 @@
+select count(*) from names where Student_id ='21080786';
+select count(*) from names where first_name ='Rifat';
+select count(*) from names where last_name ='Vajifdar';
